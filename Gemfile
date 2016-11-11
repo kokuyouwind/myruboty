@@ -1,4 +1,10 @@
-source "https://rubygems.org"
+source 'https://rubygems.org'
 
-gem "rake"
-gem "ruboty-slack"
+gem 'rake'
+gem 'ruboty-alias'
+gem 'ruboty-replace'
+gem 'ruboty-cron'
+gem 'ruboty-echo'
+gem 'ruboty-slack'
+gem 'ruboty-github'
+gem 'ruboty-redis'
