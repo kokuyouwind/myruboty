@@ -1,3 +1,12 @@
+GIT
+  remote: git://github.com/kokuyouwind/ruboty-github.git
+  revision: 9ad5381f052d61b15db866511e233cec1ae06a99
+  specs:
+    ruboty-github (0.2.1)
+      activesupport
+      octokit
+      ruboty
+
 GEM
   remote: https://rubygems.org/
   specs:
@@ -39,10 +48,6 @@ GEM
       ruboty (>= 0.2.0)
     ruboty-echo (0.1.0)
       ruboty
-    ruboty-github (0.2.1)
-      activesupport
-      octokit
-      ruboty
     ruboty-redis (0.0.6)
       redis
       redis-namespace
@@ -70,7 +75,7 @@ DEPENDENCIES
   ruboty-alias
   ruboty-cron
   ruboty-echo
-  ruboty-github
+  ruboty-github!
   ruboty-redis
   ruboty-replace
   ruboty-slack
