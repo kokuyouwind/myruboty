@@ -9,7 +9,7 @@ GIT
 
 GIT
   remote: https://gist.github.com/52826dd3bc395e92950c60412ba2e577.git
-  revision: 3320378dbb3a95fb25afc5eb8b8528c8434663bc
+  revision: f78114d7ad5922835163d0609b22868b003107a9
   specs:
     ruboty-bump (0.0.1)
 
