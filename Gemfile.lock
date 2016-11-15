@@ -7,12 +7,6 @@ GIT
       octokit
       ruboty
 
-GIT
-  remote: https://gist.github.com/52826dd3bc395e92950c60412ba2e577.git
-  revision: f78114d7ad5922835163d0609b22868b003107a9
-  specs:
-    ruboty-bump (0.0.1)
-
 GEM
   remote: https://rubygems.org/
   specs:
@@ -79,7 +73,6 @@ PLATFORMS
 DEPENDENCIES
   rake
   ruboty-alias
-  ruboty-bump!
   ruboty-cron
   ruboty-echo
   ruboty-github!
