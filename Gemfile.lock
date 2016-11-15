@@ -1,6 +1,6 @@
 GIT
   remote: git://github.com/kokuyouwind/ruboty-github.git
-  revision: c6f3f83c86bb582369f82981c04d7b35275df84c
+  revision: d0dde0b4ac496ed329035223a93e2baae2e6f50f
   specs:
     ruboty-github (0.2.1)
       activesupport
